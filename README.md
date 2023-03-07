@@ -1,4 +1,4 @@
-# Telco Customer Churn - EDA &amp; Logistic Regression
+# Telco Customer Churn - EDA &amp; Logistic Regression (made in 2021)
 
 The data set includes information about:
 - Customers who left within the last month
